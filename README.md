@@ -1,4 +1,4 @@
-# IDEA:
+# IDEA
 
 URL- https://robsriri.github.io/StaticLogin/
 
